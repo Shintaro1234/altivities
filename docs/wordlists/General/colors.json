@@ -1,32 +1,34 @@
 [
-    {
-        "image": "https://1.bp.blogspot.com/-XxR_Qa2MeU8/Ws2vtkopl-I/AAAAAAABLXo/KuXKNQ4yNsEqJrYb_4Dq1u4tGYg_Dq3PwCLcBGAs/s8192/pen_iroenpitsu05_green.png",
-        "en": "green",
-        "ja": {
-            "kanji": "緑",
-            "hiragana": "みどり"
-        }
-    },
-        {
-        "image": "https://1.bp.blogspot.com/-s1hBw9jMIKI/VRUQH0swHkI/AAAAAAAAsgs/4cQLU-Gbr5M/s800/kouhakubou_red.png",
-        "en": "red",
-        "ja": {
-            "kanji": "赤",
-            "hiragana": "あか"
-        }
-    },
-        {
-        "image": "https://2.bp.blogspot.com/-WJkXyRR1d6w/UYOsn3kKNHI/AAAAAAAARJk/dXt0-BQ2A7o/s600/beach_sandal_blue.png",
-        "en": "blue",
-        "ja": {
-            "kanji": "青",
-            "hiragana": "あお"
-        }
-    },
-        {
-        "image": "https://2.bp.blogspot.com/-sZ0ugJLWkI0/Ur1GPaI4j_I/AAAAAAAAcaE/t08ufIizPm8/s800/present_box.png",
-        "en": "pink",
-        "ja": {
-            "kanji": "桃",
-            "hiragana": "もも"
+   {
+      "image":"https://1.bp.blogspot.com/-XxR_Qa2MeU8/Ws2vtkopl-I/AAAAAAABLXo/KuXKNQ4yNsEqJrYb_4Dq1u4tGYg_Dq3PwCLcBGAs/s8192/pen_iroenpitsu05_green.png",
+      "en":"green",
+      "ja":{
+         "kanji":"緑",
+         "hiragana":"みどり"
+      }
+   },
+   {
+      "image":"https://1.bp.blogspot.com/-s1hBw9jMIKI/VRUQH0swHkI/AAAAAAAAsgs/4cQLU-Gbr5M/s800/kouhakubou_red.png",
+      "en":"red",
+      "ja":{
+         "kanji":"赤",
+         "hiragana":"あか"
+      }
+   },
+   {
+      "image":"https://2.bp.blogspot.com/-WJkXyRR1d6w/UYOsn3kKNHI/AAAAAAAARJk/dXt0-BQ2A7o/s600/beach_sandal_blue.png",
+      "en":"blue",
+      "ja":{
+         "kanji":"青",
+         "hiragana":"あお"
+      }
+   },
+   {
+      "image":"https://2.bp.blogspot.com/-sZ0ugJLWkI0/Ur1GPaI4j_I/AAAAAAAAcaE/t08ufIizPm8/s800/present_box.png",
+      "en":"pink",
+      "ja":{
+         "kanji":"桃",
+         "hiragana":"もも"
+      }
+   }
 ]
