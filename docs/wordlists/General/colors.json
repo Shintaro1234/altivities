@@ -6,5 +6,13 @@
             "kanji": "緑",
             "hiragana": "みどり"
         }
+    },
+        {
+        "image": "https://1.bp.blogspot.com/-s1hBw9jMIKI/VRUQH0swHkI/AAAAAAAAsgs/4cQLU-Gbr5M/s800/kouhakubou_red.png",
+        "en": "red",
+        "ja": {
+            "kanji": "赤",
+            "hiragana": "あか"
+        }
     }
 ]
