@@ -14,5 +14,13 @@
             "kanji": "赤",
             "hiragana": "あか"
         }
+    },
+        {
+        "image": "https://2.bp.blogspot.com/-WJkXyRR1d6w/UYOsn3kKNHI/AAAAAAAARJk/dXt0-BQ2A7o/s600/beach_sandal_blue.png",
+        "en": "blue",
+        "ja": {
+            "kanji": "青",
+            "hiragana": "あお"
+        }
     }
 ]
